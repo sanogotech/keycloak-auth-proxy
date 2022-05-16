@@ -11,6 +11,10 @@ This Auth Proxy Service uses [gambol99/keycloak-proxy](https://github.com/gambol
 
 What makes this project special is, that it can be configured with environment variables and can be easily deployed to Docker, Kubernetes or OpenShift.
 
+##  Docs
+
+- https://www.keycloak.org/server/reverseproxy
+
 ## Mode of operation
 
 ![How reverse auth proxy works][prx_diag]
